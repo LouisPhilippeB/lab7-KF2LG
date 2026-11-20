@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Capture et gestion d'images pour l'apprentissage."""
 import argparse
 from datetime import datetime, timezone
 import hashlib

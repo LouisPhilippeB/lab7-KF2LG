@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Contrôle du robot avec détection d'obstacles."""
 import math
 
 from ev_app import EvApp, EvDesc

@@ -1,4 +1,4 @@
-"""Prétraitement commun et détection d'obstacles sur le Raspberry Pi."""
+"""Prétraitement commun et détection d'obstacles."""
 
 from pathlib import Path
 from threading import Event, Thread
